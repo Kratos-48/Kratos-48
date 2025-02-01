@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that can make learn new things in database management and web dev
 - 📫 How to reach me, can reach me through insta @__sakeeb.03__ or chouglesakeeb79@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: New to this software world 
+- ⚡ Fun fact:"Hello World!"
 
 <!---
 Kratos-48/Kratos-48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
