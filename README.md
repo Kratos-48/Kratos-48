@@ -2,7 +2,7 @@
 - 👀 I’m interested in DBMS
 - 🌱 I’m currently learning Bsc in comp sci from smt chm college
 - 💞️ I’m looking to collaborate on anything that can make learn new things in database management and web dev
-- 📫 How to reach me, can reach me through insta @__sakeeb.03__ or chouglesakeeb79@gmail.com
+- 📫 How to reach me, can reach me through insta @ __sakeeb.03__ or chouglesakeeb79@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:"Hello World!"
 
